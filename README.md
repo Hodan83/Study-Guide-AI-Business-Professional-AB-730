@@ -24,11 +24,22 @@ The AI Business Professional certification validates your knowledge and skills i
 ├── 05-Practice-Questions/       # Sample questions and quizzes
 ├── 06-Case-Studies/             # Real-world scenarios
 ├── 07-Resources/                # Additional learning materials
-└── Glossary.md                  # Key terms and definitions
+├── QUICK-START.md               # 5-minute getting started guide
+├── STUDY-PLAN.md                # Structured study timelines
+├── CONTRIBUTING.md              # Contribution guidelines
+├── Glossary.md                  # Key terms and definitions
+└── LICENSE                      # MIT License
 ```
 
 ## 🚀 Getting Started
 
+### New to this guide?
+👉 **Start here:** [Quick Start Guide](QUICK-START.md) - Get up and running in 5 minutes
+
+### Ready to plan your study?
+📅 **Check out:** [Study Plan](STUDY-PLAN.md) - Structured timelines for 4, 8, or 12 weeks
+
+### Learning Path
 1. **Start with AI Fundamentals** - Build your foundation in AI concepts
 2. **Explore Business Applications** - Learn how AI solves business problems
 3. **Study Implementation** - Understand how to deploy AI solutions
